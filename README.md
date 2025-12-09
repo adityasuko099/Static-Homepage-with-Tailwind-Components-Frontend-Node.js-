@@ -34,4 +34,9 @@ npm run dev
 Lalu buka link Local server yang tertampil di terminal, contoh:
 http://localhost:5173/
 
-##  Screenshot Output
+##  Screenshot Terminal
+![Terminal](./screenshots/terminal.png)
+
+##  Screenshot Tampilan Browser
+![Tampilan Browser](./screenshots/browser.png)
+
