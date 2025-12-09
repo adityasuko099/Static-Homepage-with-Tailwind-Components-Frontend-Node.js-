@@ -33,6 +33,7 @@ npm install
 npm run dev
 Lalu buka link Local server yang tertampil di terminal, contoh:
 http://localhost:5173/
+```
 
 ##  Screenshot Terminal
 ![Terminal](./screenshots/terminal.png)
