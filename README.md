@@ -32,7 +32,7 @@ postcss.config.js
 npm install
 npm run dev
 Lalu buka link Local server yang tertampil di terminal, contoh:
-http://localhost:5173/
+http://localhost:5174/  (atau port lain sesuai terminal)
 ```
 
 ##  Screenshot Terminal
